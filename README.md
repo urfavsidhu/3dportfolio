@@ -16,10 +16,3 @@ development with React, Node.js and MongoDB.
 React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
 
 ---
-
-## 🙏 Credit
-
-This site is built on top of an open-source portfolio template created by
-**Moncy Yohannan** ([www.moncy.dev](https://www.moncy.dev)), used and
-customized under the terms of the original Personal Portfolio License (PPL) v1.0.
-See `LICENSE` for details.
